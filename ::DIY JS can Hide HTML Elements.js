@@ -1,4 +1,4 @@
-//TIU JS can Hide HTML Elements
+//DIY JS can Hide HTML Elements
 
 <!DOCTYPE html>
 <html>
