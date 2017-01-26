@@ -1,4 +1,4 @@
-//Try it yourself (JS can change HTML Styles)
+//Do it yourself (JS can change HTML Styles)
 
 <!DOCTYPE html>
 <html>
